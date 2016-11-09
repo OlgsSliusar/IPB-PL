@@ -1,0 +1,22 @@
+-wlacz kalkulator
+-wprowadz cyfre lub liczbe (max 9 cyfr:0,1,2,3,4,5,6,7,8,9 z mozliwoscia wpisania cyfr po przecinku)
+---nie OK -> wprowadz "C" (stornowac ostania cyfre) lub "CE" (stornowac calosc)-> 0 : OK -> 
+-> dokonaj operacje
+-- "+" (dodaj) lub
+-- "-" (odjac) lub
+-- '*" (pomnoz) lub
+-- " /" (podziel) 
+-wprowadz cyfre lub liczbe (max 9 cyfr:0,1,2,3,4,5,6,7,8,9 z mozliwoscia wpisania cyfr po przecinku)
+-wpisz "=" (rowna sie)
+-wyswietl rezultat
+- wcisni %
+- rezultat w procentach
+- wcisnij "MC" (czyszczenie pamieci kalkulatora)
+- wcisnij "M+" (dodawanie liczby z wyswietlacza do wbudowanej pamieci kalkulatora)
+- wcisnij "M-" (odjac liczbe z wyswietlacza od wbudowanej pamieci)
+- wcisnij"MS" (zapis wartosci z wyswietlacza do pamieci)
+- wcisnij "MR" ( przywrocenie na wyswietlacz liczby pamieci)
+--wcisnij 1/x 
+- wprowadz liczbe
+- wyswietl rezultat 
+- wcisnij 
